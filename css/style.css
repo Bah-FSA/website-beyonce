@@ -1,0 +1,32 @@
+body{
+    background-image: url(../img/bckg.png);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.geral{
+    background-color:white;
+    width: 500px;
+    margin: 50px auto 0 auto;
+    padding: 20px 0px;
+    text-align: center;
+    border:2px solid purple;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgba(0,0,0,.4);
+    
+}
+
+h2{ color:purple;
+    font-weight: bold; 
+}
+
+p{ color: grey;
+    font-size: 15px;
+}
+
+.secao img{
+    width:150px;
+}
+.links img{
+    width: 50px;
+    margin: 15px;
+}
